@@ -1,3 +1,4 @@
+# Challenge from Google.com @ https://foobar.withgoogle.com/
 """
 Commander Lambda has had an incredibly successful week: she completed the first test run of her LAMBCHOP doomsday
 device, she captured six key members of the Bunny Rebellion, and she beat her personal high score in Tetris. To
