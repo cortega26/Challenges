@@ -55,7 +55,6 @@ def fight(data):
     for i in range(turnos):
         for j in range(2):
 
-            # I inserted a small pause to give some suspense to the fight
             time.sleep(1)
 
             try:
